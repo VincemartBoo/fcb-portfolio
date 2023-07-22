@@ -19,7 +19,7 @@ h1, p {
     width: 250px;
     border-radius: 50%;
     border: 5px solid blue;
-    object-fit: none;
+    object-fit: fill;
 }
 
 body {
